@@ -1,0 +1,22 @@
+{
+  "name": "ap-react-form-flow",
+  "version": "1.0.0",
+  "description": "An npm package that provides simple and cutomizable multistep form flow for React applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anandpanda3/ap-react-form-flow.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anand Panda",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anandpanda3/ap-react-form-flow/issues"
+  },
+  "homepage": "https://github.com/anandpanda3/ap-react-form-flow#readme"
+}
